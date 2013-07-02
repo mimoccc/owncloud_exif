@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+	<id>exif</id>
+	<name>EXIF viewer</name>
+	<description>Show EXIF informnation of images</description>
+	<licence>AGPL</licence>
+	<author>Matthias Dötsch</author>
+	<require>5.0</require>
+	<shipped>false</shipped>
+	<default_enable/>
+</info>
